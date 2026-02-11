@@ -102,6 +102,9 @@ SEX / AGE: Biological status (Note: All analyzed individuals are adult females).
 #---------------------------------#
 
 
+The data for size and fat analysis use the same samples. We opted to create only two files, already excluding specimens based on the exclusion criteria for fat analysis, to facilitate data organization throughout the analysis.
+
+
 Ensure you have R and RStudio installed.
 
 
